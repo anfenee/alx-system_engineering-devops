@@ -1,0 +1,1 @@
+script displaying shell permissions
